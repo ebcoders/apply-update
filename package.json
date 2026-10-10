@@ -1,0 +1,16 @@
+{
+  "name": "proj",
+  "version": "1.0.0",
+  "description": "validate and apply device settings change ",
+  "license": "ISC",
+  "author": "Ebin",
+  "type": "module",
+  "main": "apply_update.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "node --test",
+    "start": "node demo.js"
+  }
+}
