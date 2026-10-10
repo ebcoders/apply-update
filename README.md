@@ -34,4 +34,4 @@ The version check is only as good as the storage write. With a real database, th
 
 ## AI use and outside code
 - Claude Code helped with planning, drafting code, tests and this README. No other outside code.
-- I checked myself: __ (e.g. walked each rule in the brief against `applyUpdate` line by line, ran `npm test` and `npm start`, broke the check order to confirm a test failed, and verified the spec examples by hand).
+- I checked myself:  walked each rule in the brief against `applyUpdate` line by line, ran `npm test` and `npm start`, broke the check order to confirm a test failed, and verified the spec examples by hand.
